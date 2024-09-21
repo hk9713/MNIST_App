@@ -1,7 +1,17 @@
 # MNIST App (iOS)
-사용자가 그린 숫자가 무엇인지 예측하여 제시하는 어플  
+사용자가 그린 숫자가 무엇인지 예측합니다  
+* Tensorflow → TFLite
+* Swift / Storyboard
+* Sketch  
 
-<figure class="half">
-  <a href="link"><img src="https://github.com/user-attachments/assets/d2d8c08f-33e3-4147-9144-8c9113f9ae77"></a>
-  <a href="link"><img src="https://github.com/user-attachments/assets/202ee2ec-edb5-4188-a5df-d5125d757de9"></a>
-</figure>
+<p align="center">
+  <img src="https://github.com/hk9713/MNIST_App/blob/main/docs/MNIST_icon.png" align="center" width="20%">
+  <img src="https://github.com/hk9713/MNIST_App/blob/main/docs/MNIST_main.PNG" align="center" width="20%">
+  <img src="https://github.com/hk9713/MNIST_App/blob/main/docs/MNIST_success2.PNG" align="center" width="20%">
+  <img src="https://github.com/hk9713/MNIST_App/blob/main/docs/MNIST_fail.PNG" align="center" width="20%">
+</p>
+
+---
+
+
+❗️ <머신러닝 모델을 활용한 Android, iOS 앱 개발(한상곤)> 강의를 활용하여 제작하였습니다.
